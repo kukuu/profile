@@ -20,8 +20,8 @@ He is also a seasonal Lecturer in Business Computing & Digital Transformation in
   AZZOTTO is a digital broadcasting service in News, Entertainment, Wealth Management, Sports, and Streaming. 
   - https://www.azzotto.com/
   
-  2. Love Joint UK
-  LOVE JOINT is Lifestyle and Healthy Living platform.
+  2. LOVE JOINT UK
+  Love Joint is Lifestyle and Healthy Living platform.
   - https://lovejoint-kukuu.vercel.app/
 
 ## Industry Acknowledgement
