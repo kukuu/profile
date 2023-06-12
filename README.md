@@ -1,5 +1,5 @@
 # Profile
-With over twenty years of experience in Computing, Alexander is an accredited and practising Full-stack software engineer. He is a Global Award Winner in Software Engineering, and was nominated by the industry in the United Kingdom as amongst the top 50 Technology Leaders, February 2023. His background is in Computer Systems Engineering, Data Communications & Networks (MSc). Alexander has a previous background in Mechanical Engineering (MSc).
+With over twenty years of experience in Computing, Alexander is an accredited and practising Full-stack software engineer. He is a Global Award Winner in Software Engineering, and has been nominated by the industry in the United Kingdom as amongst the top 50 Technology Leaders, February 2023. His background is in Computer Systems Engineering, Data Communications & Networks (MSc). Alexander has a previous background in Mechanical Engineering (MSc).
 
 He is also a seasonal Lecturer in Business Computing & Digital Transformation in Higher Education Institutes in England.
 
