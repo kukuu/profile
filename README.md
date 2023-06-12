@@ -1,5 +1,5 @@
 # Profile
-With over twenty years of experience in Computing, Alexander is an accredited and practising Full-stack software engineer. He is a Global Award Winner - https://github.com/kukuu?tab=repositories . His background is in Computer Systems Engineering, Data Communications & Networks (MSc). Alexander has a previous background in Mechanical Engineering (MSc).
+With over twenty years of experience in Computing, Alexander is an accredited and practising Full-stack software engineer. He is a Global Award Winner - in Software Engineering . His background is in Computer Systems Engineering, Data Communications & Networks (MSc). Alexander has a previous background in Mechanical Engineering (MSc).
 
 He is also a seasonal Lecturer in Business Computing & Digital Transformation in Higher Education Institutes in England.
 
@@ -23,5 +23,8 @@ He is also a seasonal Lecturer in Business Computing & Digital Transformation in
   2. Love Joint UK
   LOVE JOINT is Lifestyle and Healthy Living platform.
   - https://lovejoint-kukuu.vercel.app/
+
+## Industry Acknowledgement
+https://github.com/kukuu/AGILITY/blob/master/top-50-announcement.png
 
 
