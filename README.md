@@ -15,7 +15,7 @@ He is also a seasonal Lecturer in Business Computing & Digital Transformation in
 ## Covering note   
  https://github.com/kukuu/AGILITY/blob/master/covering-main.pdf
   
-## Personal Development Projects 
+## Personal Projects (in public domain)
   1. AZZOTTO
   AZZOTTO is a digital broadcasting service in News, Entertainment, Wealth Management, Sports, and Streaming. 
   - https://www.azzotto.com/
