@@ -17,10 +17,12 @@ He is also a seasonal Lecturer in Business Computing & Digital Transformation in
   
 ## Personal Projects (in public domain)
   1. AZZOTTO
+  
   AZZOTTO is a digital broadcasting service in News, Entertainment, Wealth Management, Sports, and Streaming. 
   - https://www.azzotto.com/
   
   2. LOVE JOINT UK
+  
   Love Joint is Lifestyle and Healthy Living platform.
   - https://lovejoint-kukuu.vercel.app/
 
