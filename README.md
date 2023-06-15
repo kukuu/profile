@@ -24,7 +24,7 @@ He is also a seasonal Lecturer in Business Computing & Digital Transformation in
   2. LOVE JOINT UK
   
   Love Joint is Lifestyle and Healthy Living platform.
-  - https://lovejoint-kukuu.vercel.app/
+
 
 ## Industry Acknowledgement
 https://github.com/kukuu/AGILITY/blob/master/top-50-announcement.png
