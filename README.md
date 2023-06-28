@@ -13,7 +13,7 @@ An Academic and Seasonal Lecturer in Digital Transformation and Business Computi
   https://www.linkedin.com/in/alexander-adu-sarkodie-mbcs-mieng-063b4b4a/
   
 ## GitHub 
-  https://www.linkedin.com/in/alexander-adu-sarkodie-mbcs-mieng-063b4b4a/
+  https://github.com/kukuu?tab=repositories
 
 ## Resume 
   https://github.com/kukuu/AGILITY/blob/master/az-resume-aa-pshg.pdf
