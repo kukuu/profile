@@ -22,14 +22,10 @@ An Academic and Seasonal Lecturer in Digital Transformation and Business Computi
  https://github.com/kukuu/AGILITY/blob/master/covering-main.pdf
   
 ## Personal Projects (in public domain)
-  1. AZZOTTO
-  
-  AZZOTTO is a digital broadcasting service in News, Entertainment, Wealth Management, Sports, and Streaming. 
+  1. AZZOTTO - An online digital broadcasting service in News, Entertainment, Wealth Management, Sports, and Streaming. 
   - https://www.azzotto.com/
   
-  2. LOVE JOINT UK
-  
-  Love Joint is Lifestyle and Healthy Living platform.
+  2. LOVE JOINT UK - A Lifestyle and Healthy Living online platform.
 
 
 ## Industry Acknowledgement
