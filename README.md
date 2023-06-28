@@ -1,7 +1,11 @@
 # Profile
-With over twenty years of experience in Computing, Alexander is an accredited and practising Full-stack software engineer. He is a Global Award Winner in Software Engineering, and has been nominated by the industry in the United Kingdom as amongst the top 50 Technology Leaders, February 2023. His background is in Computer Systems Engineering, Data Communications & Networks (MSc). Alexander has a previous background in Mechanical Engineering (MSc).
+With over twenty years of experience in Computing, Alexander is an accredited and practising Full-stack software engineer. He is a Global Award Winner in Software Engineering and has been nominated by the industry in the United Kingdom as amongst the top 50 Technology Leaders, February 2023. His background is in Computer Systems Engineering, Data Communications & Networks (MSc). Alexander has a previous background in Mechanical Engineering (MSc).
 
-He is also a seasonal Lecturer in Business Computing & Digital Transformation in Higher Education Institutes in England.
+In the last couple of years, I have led hands-on, hands-off, and provided technology strategies and architectural direction in setting up three startups which have all since turned into successful commercial businesses. 
+
+Worked as CTO, Head of Engineering, Software  Development Manager, Principal Architect, Technical Lead,  Senior Software Engineer, Software Engineer and Product Owner.
+
+An Academic and Seasonal Lecturer in Digital Transformation and Business Computing across institutes of Higher Education in England. Conducts and commissions R&D programs and initiatives.
 
 ## LinkedIn 
   https://www.linkedin.com/in/alexander-adu-sarkodie-mbcs-mieng-063b4b4a/
