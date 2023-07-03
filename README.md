@@ -10,8 +10,17 @@ Line-managed near and offshore teams.
 An Academic and Seasonal Lecturer in Digital Transformation and Business Computing across institutes of Higher Education in England. Conducts and commissions R&D programs and initiatives.
 
   
+## LinkedIn 
+ https://www.linkedin.com/in/alexander-adu-sarkodie-063b4b4a/
+  
 ## GitHub 
   https://github.com/kukuu?tab=repositories
+
+## Resume 
+  https://github.com/kukuu/AGILITY/blob/master/az-resume-aa-pshg.pdf
+
+## Covering note   
+ https://github.com/kukuu/AGILITY/blob/master/covering-main.pdf
 
   
 ## Personal Projects (in public domain)
