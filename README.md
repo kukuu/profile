@@ -3,7 +3,7 @@ With over twenty years of experience in Computing, Alexander is an accredited an
 
 In the last couple of years, has led hands-on, hands-off, developing best practices, and provided technology strategies, product and architectural direction in setting up three startups which have all since turned into successful commercial businesses. Keeps abreast of regular developments and evolving best practices in compliance control and ensures products and services have an appropriate backup, high availability cum disaster recovery systems and procedures in place. Practices effective management skills covering; leadership, decision-making, planning, time management, coaching, mentoring, continuous professional development and analytical problem-solving.
 
-Worked as CTO, Head of Engineering, Software  Development Manager, Principal Architect, Technical Lead,  Senior Software Engineer,Software Engineer and Product Owner.
+Worked as CTO, Head of Engineering, Head of Development, Software  Development Manager, Principal Architect, Technical Lead,  Senior Software Engineer, Software Engineer and Product Owner.
 
 Line-managed near and offshore teams.
 
