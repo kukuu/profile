@@ -1,7 +1,7 @@
 # Profile
 A result-oriented Technology leader in Computing with extensive hands-on/hands-off experience, Alexander is an accredited and practising Full-stack software engineer. He is a Global Award Winner in Software Engineering and has been nominated by the industry in the United Kingdom as amongst the top 50 Technology Leaders, in February 2023. His background is in Computer Systems Engineering, Data Communications & Networks (MSc). Alexander has a previous background in Mechanical Engineering (MSc).
 
-He has been leading (hands-on, hands-off) cross-functional teams, developing and implementing best practices, enterprise and open source solutions, technology strategies, product delivery and architectural direction for large-scale and SMEs in public and private sectors. Has helped to set up three startups in the last three years which have all since turned into successful commercial businesses. 
+He has been leading cross-functional teams, developing and implementing best practices, enterprise and open source solutions, technology strategies, product delivery and architectural direction for large-scale and SMEs in public and private sectors. Has helped to set up three startups in the last three years which have all since turned into successful commercial businesses. 
 
 Keeps abreast of emerging technologies, regular developments and evolving best practices in compliance control and ensures products and services have an appropriate backup, high availability cum disaster recovery systems and procedures in place. Practices effective management skills covering; leadership, decision-making, planning, time management, coaching, mentoring, continuous professional development and analytical problem-solving.
 
