@@ -3,7 +3,7 @@ A result-oriented Technology leader in Computing with extensive hands-on/hands-o
 
 He has been providing technical leadership to cross-functional teams, developing and implementing best practices, enterprise and open source solutions, technology strategies, product delivery and architectural direction for large-scale and SMEs in public and private sectors. Has helped to set up two startups in the last five years which have all since turned into successful commercial businesses. 
 
-Keeps abreast of emerging technologies, regular developments and evolving best practices in compliance control and ensures products and services have an appropriate backup, high availability cum disaster recovery systems and procedures in place. Practices effective management skills covering; leadership, decision-making, planning, time management, coaching, mentoring, continuous professional development and analytical problem-solving.
+Keeps abreast of emerging technologies, regular developments and evolving best practices in compliance control and ensures products and services have an appropriate backup, high availability, disaster recovery systems, security and Cyber essential governances in place. Practices effective management skills covering; leadership, decision-making, planning, time management, coaching, mentoring, continuous professional development and analytical problem-solving.
 
 Worked as CTO, Head of Engineering, Head of Development, Software  Development Manager, Managing Consultant, Principal Architect, Technical Lead,  Senior Software Engineer, Software Engineer and Product Owner.
 
