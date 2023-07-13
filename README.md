@@ -5,7 +5,7 @@ He has been leading (hands-on, hands-off) cross-functional teams, developing and
 
 Keeps abreast of emerging technologies, regular developments and evolving best practices in compliance control and ensures products and services have an appropriate backup, high availability cum disaster recovery systems and procedures in place. Practices effective management skills covering; leadership, decision-making, planning, time management, coaching, mentoring, continuous professional development and analytical problem-solving.
 
-Worked as CTO, Head of Engineering, Head of Development, Software  Development Manager, Principal Architect, Technical Lead,  Senior Software Engineer, Software Engineer and Product Owner.
+Worked as CTO, Head of Engineering, Head of Development, Software  Development Manager, Development and Delivery Consultant, Principal Architect, Technical Lead,  Senior Software Engineer, Software Engineer and Product Owner.
 
 Line-managed near and offshore teams.
 
