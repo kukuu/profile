@@ -23,7 +23,7 @@ An Academic and Seasonal Lecturer in Digital Transformation and Business Computi
  https://github.com/kukuu/AGILITY/blob/master/covering-main.pdf
 
   
-## Project (Continuous Professional Development - CPD)
+## Project - CPD
   1. AZZOTTO - An online digital broadcasting service in News, Entertainment, Wealth Management, Sports, and Streaming. 
   - https://www.azzotto.com/
   
