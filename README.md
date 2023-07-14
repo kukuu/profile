@@ -7,7 +7,7 @@ Keeps abreast of emerging technologies, regular developments and evolving best p
 
 Worked as CTO, Head of Engineering, Head of Development, Software  Development Manager, Managing Consultant, Principal Architect, Technical Lead,  Senior Software Engineer, Software Engineer and Product Owner.
 
-Line-managed near and offshore teams.
+Continues to Line-manage near and offshore teams.
 
 An Academic and Seasonal Lecturer in Digital Transformation and Business Computing across institutes of Higher Education in England. Conducts and commissions R&D programs and initiatives.
 
