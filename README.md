@@ -9,7 +9,7 @@ Worked in various Technology Leadership roles and in Management Consultancy, Ser
 
 Continues to Line-manage near and offshore teams.
 
-An Academic and Seasonal Lecturer in Digital Transformation and Business Computing across institutes of Higher Education in England. Conducts and commissions R&D programs and initiatives.
+An Academic and Seasonal Lecturer in Digital Transformation and Business Computing across institutes of Higher Education in England. 
 
   
   
