@@ -5,7 +5,7 @@ He helps to deliver, mentor, coach, provide technical and architectural directio
 
 Keeps abreast of emerging technologies, regular developments and evolving best practices in compliance control and ensures products and services have an appropriate backup, high availability, disaster recovery systems, security and Cyber Essential governances and certifications are in place. Practices effective management skills covering; leadership, decision-making, planning, time management, coaching, mentoring, continuous professional development and analytical problem-solving.
 
-Worked in various Technology Leadership roles and in Management Consultancy, Service Delivery, Product Engineering and Management. Very accustomed to building Prototypes and PoCs for incubation project analysis to access viability for revenue generation and cost-effectiveness with stakeholders as well as Canary Deployments before rolling out to an entire user base. This helps identify issues early and minimize the impact of potential problems.  
+Worked in various Technology Leadership roles and in Management Consultancy, Service Delivery, Product Engineering and Management. Very accustomed to building Prototypes and PoCs for incubation project analysis to assess viability for revenue generation and cost-effectiveness with stakeholders as well as Canary Deployments before rolling out to an entire user base. This helps identify issues early and minimize the impact of potential problems.  
 
 Continues to Line-manage near and offshore teams.
 
